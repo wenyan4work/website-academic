@@ -1,0 +1,9 @@
+---
+title: "Effect of Size-Dependent Grain Structures on the Dynamics of Nanoparticle Coalescence"
+date: 2012-06-26
+authors: ["Yiyang Zhang", "Shuiqing Li", "**Wen Yan**", "Stephen D. Tse"]
+publication_types: ["2"]
+publication: "*Journal of Applied Physics*"
+doi: "10.1063/1.4730773"
+abstract: The effect of grain structure on the coalescence dynamics of anatase TiO2 nanoparticles at different temperatures is investigated using classical molecular dynamics (MD) simulation. Examination of local-lattice-orientation distributions reveals that the grain morphology of particles is highly dependent on size. For a single anatase nanoparticle below the melting temperature, an amorphous-to-crystalline transition occurs for diameters ranging from 2 to 2.5-nm as temperature increases. Below the transition diameter (for a given temperature), the entire nanoparticle is amorphous. Above the transition diameter, the nanoparticle consists of a crystalline core and an amorphous shell (4\u20136-\u00c5). Considering that such grain-structure characteristics may lead to different dynamic behaviors, the coalescence between pairs of 2nm - 2nm, 3nm - 3nm, and 2nm - 3nm nanoparticles is investigated. For 2nm - 3nm nanoparticle coalescence, the process is independent of initial temperature and is seemingly viscosity-controlled with a dynamic temperature rise due to energy transfer from surface to internal kinetic (thermal). For 3nm - 3nm nanoparticle coalescence, the process is sensitive to initial temperature. Above the melting temperature, the dynamics are similar to the 2nm - 2nm amorphous case. Just below the melting point, coalescence consists of melting of the crystalline cores with subsequent large increase in temperature due to recrystallization. For 2nm - 3nm nanoparticle coalescence, recrystallization of the 2nm particle significantly increases the total temperature compared to the 2nm - 2nm case.
+---

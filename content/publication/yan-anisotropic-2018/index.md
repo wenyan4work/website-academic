@@ -1,0 +1,9 @@
+---
+title: "Anisotropic Swim Stress in Active Matter with Nematic Order"
+date: 2018-05-24
+authors: ["**Wen Yan**", "John F. Brady"]
+publication_types: ["2"]
+publication: "*New Journal of Physics*"
+doi: "10.1088/1367-2630/aac3c5"
+abstract: Active Brownian particles (ABPs) transmit a swim pressure ${{\rm{\Pi }}}^{{\rm{swim}}}=n\zeta {D}^{{\rm{swim}}}$ to the container boundaries, where $\zeta$ is the drag coefficient, $D_{swim}$ is the swim diffusivity and $n$ is the uniform bulk number density far from the container walls. In this work we extend the notion of the isotropic swim pressure to the anisotropic tensorial swim stress ${{\boldsymbol{\sigma }}}^{{\rm{swim}}}=-n\zeta {{\boldsymbol{D}}}^{{\rm{swim}}}$, which is related to the anisotropic swim diffusivity ${{\boldsymbol{D}}}^{{\rm{swim}}}$. We demonstrate this relationship with ABPs that achieve nematic orientational order via a bulk external field. The anisotropic swim stress is obtained analytically for dilute ABPs in both 2D and 3D systems. The anisotropy, defined as the ratio of the maximum to the minimum of the three principal stresses, is shown to grow exponentially with the strength of the external field. We verify that the normal component of the anisotropic swim stress applies a pressure ${{\rm{\Pi }}}^{{\rm{swim}}}=-({{\boldsymbol{\sigma }}}^{{\rm{swim}}}\cdot {\boldsymbol{n}})\cdot {\boldsymbol{n}}$ on a wall with normal vector ${\boldsymbol{n}}$, and, through Brownian dynamics simulations, this pressure is shown to be the force per unit area transmitted by the active particles. Since ABPs have no friction with a wall, the difference between the normal and tangential stress components -- the normal stress difference -- generates a net flow of ABPs along the wall, which is a generic property of active matter systems.
+---

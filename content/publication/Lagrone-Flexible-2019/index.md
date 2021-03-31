@@ -1,0 +1,9 @@
+---
+title: "Complex Dynamics of Long, Flexible Fibers in Shear"
+date: 2019-06-19
+authors: ["John LaGrone", "Ricardo Cortez", "**Wen Yan**", "Lisa Fauci"]
+publication_types: ["2"]
+publication: "*Journal of Non-Newtonian Fluid Mechanics*"
+doi: "10.1016/j.jnnfm.2019.06.007"
+abstract: The macroscopic properties of polymeric fluids are inherited from the material properties of the fibers embedded in the solvent. The behavior of such passive fibers in flow has been of interest in a wide range of systems, including cellular mechanics, nutrient acquisition by diatom chains in the ocean, and industrial applications such as paper manufacturing. The rotational dynamics and shape evolution of fibers in shear depends upon the slenderness of the fiber and the non-dimensional ''elasto-viscous'' number that measures the ratio of the fluid's viscous forces to the fiber's elastic forces. For a small elasto-viscous number, the nearly-rigid fiber rotates in the shear, but when the elasto-viscous number reaches a threshold, buckling occurs. For even larger elasto-viscous numbers, there is a transition to a ''snaking behavior'' where the fiber remains aligned with the shear axis, but its ends curl in, in opposite directions. These experimentally-observed behaviors have recently been characterized computationally using slender-body theory and immersed boundary computations. However, classical experiments with nylon fibers and recent experiments with actin filaments have demonstrated that for even larger elasto-viscous numbers, multiple buckling sites and coiling can occur. Using a regularized Stokeslet framework coupled with a kernel independent fast multipole method, we present simulations that capture these complex fiber dynamics.
+---
