@@ -1,7 +1,7 @@
 ---
 title: "Complex Dynamics of Long, Flexible Fibers in Shear"
 date: 2019-06-19
-authors: ["John LaGrone", "Ricardo Cortez", "**Wen Yan**", "Lisa Fauci"]
+authors: ["John LaGrone", "Ricardo Cortez", "Wen Yan", "Lisa Fauci"]
 publication_types: ["2"]
 publication: "*Journal of Non-Newtonian Fluid Mechanics*"
 doi: "10.1016/j.jnnfm.2019.06.007"

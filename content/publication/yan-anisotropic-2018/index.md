@@ -1,7 +1,7 @@
 ---
 title: "Anisotropic Swim Stress in Active Matter with Nematic Order"
 date: 2018-05-24
-authors: ["**Wen Yan**", "John F. Brady"]
+authors: ["Wen Yan", "John F. Brady"]
 publication_types: ["2"]
 publication: "*New Journal of Physics*"
 doi: "10.1088/1367-2630/aac3c5"

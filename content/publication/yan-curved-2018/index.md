@@ -1,7 +1,7 @@
 ---
 title: "The Curved Kinetic Boundary Layer of Active Matter"
 date: 2018-01-14
-authors: ["**Wen Yan**", "John F. Brady"]
+authors: ["Wen Yan", "John F. Brady"]
 publication_types: ["2"]
 publication: "*Soft Matter*"
 doi: "10.1039/C7SM01643C"

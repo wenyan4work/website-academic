@@ -1,7 +1,7 @@
 ---
 title: "Synthesis of TiO2 Nanoparticles by Premixed Stagnation Swirl Flames"
 date: 2010-08-06
-authors: ["Junjing Wang", "Shuiqing Li", "**Wen Yan**", "Stephen D. Tse", "Qiang Yao"]
+authors: ["Junjing Wang", "Shuiqing Li", "Wen Yan", "Stephen D. Tse", "Qiang Yao"]
 publication_types: ["2"]
 publication: "*Proceedings of the Combustion Institute*"
 doi: "10.1016/j.proci.2010.05.022"

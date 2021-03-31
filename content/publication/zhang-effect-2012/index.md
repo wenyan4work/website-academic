@@ -1,7 +1,7 @@
 ---
 title: "Effect of Size-Dependent Grain Structures on the Dynamics of Nanoparticle Coalescence"
 date: 2012-06-26
-authors: ["Yiyang Zhang", "Shuiqing Li", "**Wen Yan**", "Stephen D. Tse"]
+authors: ["Yiyang Zhang", "Shuiqing Li", "Wen Yan", "Stephen D. Tse"]
 publication_types: ["2"]
 publication: "*Journal of Applied Physics*"
 doi: "10.1063/1.4730773"

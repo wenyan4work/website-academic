@@ -1,7 +1,7 @@
 ---
 title: "The Force on a Boundary in Active Matter"
 date: 2015-12-25
-authors: ["**Wen Yan**", "John F. Brady"]
+authors: ["Wen Yan", "John F. Brady"]
 publication_types: ["2"]
 abstract: ""
 featured: false

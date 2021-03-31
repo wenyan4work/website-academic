@@ -1,7 +1,7 @@
 ---
 title: "The Behavior of Active Diffusiophoretic Suspensions: An Accelerated Laplacian Dynamics Study"
 date: 2016-10-05
-authors: ["**Wen Yan**", "John F. Brady"]
+authors: ["Wen Yan", "John F. Brady"]
 publication_types: ["2"]
 publication: "*The Journal of Chemical Physics*"
 doi: "10.1063/1.4963722"

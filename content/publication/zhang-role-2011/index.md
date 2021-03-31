@@ -1,7 +1,7 @@
 ---
 title: "Role of Dipole\u2013Dipole Interaction on Enhancing Brownian Coagulation of Charge-Neutral Nanoparticles in the Free Molecular Regime"
 date: 2011-02-22
-authors: ["Yiyang Zhang", "Shuiqing Li", "**Wen Yan**", "Qiang Yao", "Stephen D. Tse"]
+authors: ["Yiyang Zhang", "Shuiqing Li", "Wen Yan", "Qiang Yao", "Stephen D. Tse"]
 publication_types: ["2"]
 publication: "*The Journal of Chemical Physics*"
 doi: "10.1063/1.3555633"

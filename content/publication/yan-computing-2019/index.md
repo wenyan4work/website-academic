@@ -1,7 +1,7 @@
 ---
 title: "Computing Collision Stress in Assemblies of Active Spherocylinders: Applications of a Fast and Generic Geometric Method"
 date: 2019-02-13
-authors: ["**Wen Yan**", "Huan Zhang", "Michael J. Shelley"]
+authors: ["Wen Yan", "Huan Zhang", "Michael J. Shelley"]
 publication_types: ["2"]
 publication: "*The Journal of Chemical Physics*"
 doi: "10.1063/1.5080433"

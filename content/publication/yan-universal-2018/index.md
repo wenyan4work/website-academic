@@ -1,7 +1,7 @@
 ---
 title: "Universal Image Systems for Non-Periodic and Periodic Stokes Flows above a No-Slip Wall"
 date: 2018-12-15
-authors: ["**Wen Yan**", "Michael Shelley"]
+authors: ["Wen Yan", "Michael Shelley"]
 publication_types: ["2"]
 publication: "*Journal of Computational Physics*"
 doi: "10.1016/j.jcp.2018.08.041"

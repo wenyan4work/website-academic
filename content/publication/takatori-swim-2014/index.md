@@ -1,7 +1,7 @@
 ---
 title: "Swim Pressure: Stress Generation in Active Matter"
 date: 2014-07-11
-authors: ["Sho C. Takatori", "**Wen Yan**", "John F. Brady"]
+authors: ["Sho C. Takatori", "Wen Yan", "John F. Brady"]
 publication_types: ["2"]
 featured: false
 publication: "*Physical Review Letters*"

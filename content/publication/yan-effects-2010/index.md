@@ -1,7 +1,7 @@
 ---
 title: "Effects of Dipole Moment and Temperature on the Interaction Dynamics of Titania Nanoparticles during Agglomeration"
 date: 2010-05-28
-authors: ["**Wen Yan**", "Shuiqing Li", "Yiyang Zhang", "Qiang Yao", "Stephen D. Tse"]
+authors: ["Wen Yan", "Shuiqing Li", "Yiyang Zhang", "Qiang Yao", "Stephen D. Tse"]
 publication_types: ["2"]
 publication: "*The Journal of Physical Chemistry C*"
 doi: "10.1021/jp102750k"

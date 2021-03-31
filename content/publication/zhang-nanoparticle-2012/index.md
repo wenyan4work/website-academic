@@ -1,7 +1,7 @@
 ---
 title: "Nanoparticle Transport and Deposition in Boundary Layer of Stagnation-Point Premixed Flames"
 date: 2011-12-23
-authors: ["Yiyang Zhang", "Shuiqing Li", "**Wen Yan**", "Qiang Yao"]
+authors: ["Yiyang Zhang", "Shuiqing Li", "Wen Yan", "Qiang Yao"]
 publication_types: ["2"]
 publication: "*Powder Technology*"
 doi: "10.1016/j.powtec.2011.12.035"

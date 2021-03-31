@@ -1,7 +1,7 @@
 ---
 title: "Antiswarming: Structure and Dynamics of Repulsive Chemically Active Particles"
 date: 2017-12-01
-authors: ["**Wen Yan**", "John F. Brady"]
+authors: ["Wen Yan", "John F. Brady"]
 publication_types: ["2"]
 publication: "*Physical Review E*"
 doi: "10.1103/PhysRevE.96.060601"

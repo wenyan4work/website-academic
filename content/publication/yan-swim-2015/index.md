@@ -1,7 +1,7 @@
 ---
 title: "The Swim Force as a Body Force"
 date: 2015-08-21
-authors: ["**Wen Yan**", "John F. Brady"]
+authors: ["Wen Yan", "John F. Brady"]
 publication_types: ["2"]
 publication: "*Soft Matter*"
 doi: "10.1039/C5SM01318F"

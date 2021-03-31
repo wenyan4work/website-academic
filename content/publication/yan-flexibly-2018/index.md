@@ -1,7 +1,7 @@
 ---
 title: "Flexibly Imposing Periodicity in Kernel Independent FMM: A Multipole-to-Local Operator Approach"
 date: 2018-02-15
-authors: ["**Wen Yan**", "Michael Shelley"]
+authors: ["Wen Yan", "Michael Shelley"]
 publication_types: ["2"]
 publication: "*Journal of Computational Physics*"
 doi: "10.1016/j.jcp.2017.11.012"
